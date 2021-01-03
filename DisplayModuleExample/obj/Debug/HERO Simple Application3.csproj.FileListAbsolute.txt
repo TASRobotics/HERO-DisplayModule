@@ -1,0 +1,23 @@
+C:\Users\24ThomasT\source\repos\HERO Simple Application3\HERO Simple Application3\bin\Debug\le\HERO Simple Application3.exe
+C:\Users\24ThomasT\source\repos\HERO Simple Application3\HERO Simple Application3\bin\Debug\be\HERO Simple Application3.exe
+C:\Users\24ThomasT\source\repos\HERO Simple Application3\HERO Simple Application3\bin\Debug\le\HERO Simple Application3.pdb
+C:\Users\24ThomasT\source\repos\HERO Simple Application3\HERO Simple Application3\bin\Debug\be\HERO Simple Application3.pdb
+C:\Users\24ThomasT\source\repos\HERO Simple Application3\HERO Simple Application3\bin\Debug\HERO Simple Application3.exe
+C:\Users\24ThomasT\source\repos\HERO Simple Application3\HERO Simple Application3\bin\Debug\HERO Simple Application3.pdb
+C:\Users\24ThomasT\source\repos\HERO Simple Application3\HERO Simple Application3\bin\Debug\le\HERO Simple Application3.pe
+C:\Users\24ThomasT\source\repos\HERO Simple Application3\HERO Simple Application3\bin\Debug\le\HERO Simple Application3.pdbx
+C:\Users\24ThomasT\source\repos\HERO Simple Application3\HERO Simple Application3\bin\Debug\be\HERO Simple Application3.pe
+C:\Users\24ThomasT\source\repos\HERO Simple Application3\HERO Simple Application3\bin\Debug\be\HERO Simple Application3.pdbx
+C:\Users\24ThomasT\source\repos\HERO Simple Application3\HERO Simple Application3\obj\Debug\HERO Simple Application3.csprojAssemblyReference.cache
+C:\Users\24ThomasT\source\repos\HERO Simple Application3\HERO Simple Application3\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\24ThomasT\source\repos\HERO Simple Application3\HERO Simple Application3\obj\Debug\HERO_Simple_Application3.Properties.Resources.resources
+C:\Users\24ThomasT\source\repos\HERO Simple Application3\HERO Simple Application3\obj\Debug\HERO Simple Application3.csproj.GenerateResource.cache
+C:\Users\24ThomasT\source\repos\HERO Simple Application3\HERO Simple Application3\obj\Debug\HERO_Simple_Application3.Properties.Resources.tinyresources
+C:\Users\24ThomasT\source\repos\HERO Simple Application3\HERO Simple Application3\obj\Debug\TinyResGen.cache
+C:\Users\24ThomasT\source\repos\HERO Simple Application3\HERO Simple Application3\obj\Debug\HERO Simple Application3.csproj.CoreCompileInputs.cache
+C:\Users\24ThomasT\source\repos\HERO Simple Application3\HERO Simple Application3\obj\Debug\be\HERO Simple Application3.pe
+C:\Users\24ThomasT\source\repos\HERO Simple Application3\HERO Simple Application3\obj\Debug\be\HERO Simple Application3.pdbx
+C:\Users\24ThomasT\source\repos\HERO Simple Application3\HERO Simple Application3\obj\Debug\le\HERO Simple Application3.pe
+C:\Users\24ThomasT\source\repos\HERO Simple Application3\HERO Simple Application3\obj\Debug\le\HERO Simple Application3.pdbx
+C:\Users\24ThomasT\source\repos\HERO Simple Application3\HERO Simple Application3\obj\Debug\HERO Simple Application3.exe
+C:\Users\24ThomasT\source\repos\HERO Simple Application3\HERO Simple Application3\obj\Debug\HERO Simple Application3.pdb
